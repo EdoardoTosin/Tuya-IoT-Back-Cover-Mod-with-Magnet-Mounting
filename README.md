@@ -2,13 +2,13 @@
 
 This repository contains the STL file for a custom back cover specifically designed for the Tuya IoT temperature and humidity sensor. The design introduces slots for small magnets. The slots are designed to fit magnets with a diameter of **10mm** and a height of **1.6mm**.
 
-![Tuya WiFi Temperature and Humidity sensor](assets/Tuya-WiFi-Temperature-and-Humidity-sensor.jpg)
-
-![Tuya Back Cover with Magnet Holes](assets/tuya_back_cover_with_magnet_holes.jpg)
+<div align="center">
+  <img src="assets/Tuya-WiFi-Temperature-and-Humidity-sensor.jpg" alt="Tuya WiFi Temperature and Humidity sensor">
+</div>
 
 ## 📂 Content
 
-- `tuya_back_cover_with_magnet_holes.stl`: STL file for the modified back cover.
+- [`tuya_back_cover_with_magnet_holes.stl`](models/printable/tuya_back_cover_with_magnet_holes.stl): STL file for the modified back cover. [Here](assets/tuya_back_cover_with_magnet_holes.jpg) you can find a 3D rendering preview of the model.
 
 ## ✨ Features
 
@@ -58,4 +58,4 @@ This repository contains the STL file for a custom back cover specifically desig
 
 ## 📜 License
 
-This project is licensed under the CC BY 4.0 License. See the `LICENSE` file for details.
+This project is licensed under the CC BY 4.0 License. See the [LICENSE](LICENSE) file for details.
